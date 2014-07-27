@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_3eb6bb8a",
+        "filename": "include/sound/compress_params.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2014-07-27T02:58:22Z",
+      "side": 1,
+      "message": "Don\u0027t you need to rev AUDIOCODEC_MAX?",
+      "revId": "0bc26e5c0aaf4c631ee9dde8f30c9ee6b896dfa7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
